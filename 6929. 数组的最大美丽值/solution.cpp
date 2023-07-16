@@ -7,11 +7,17 @@ using namespace std;
 
 class Solution {
 public:
-    int sumOfSquares(vector<int>& nums) {
-        int n = nums.size();
+    int maximumBeauty(vector<int>& nums, int k) {
+        // 排序之后用滑动窗口加双指针
         int ans = 0;
+        int n = nums.size();
+        sort(nums.begin(), nums.end());
+        int left = 0;
         for(int i = 0; i < n; i++){
-            if(n % (i+1) == 0) ans += nums[i] * nums[i];
+            while(nums[i] - nums[left] > 2 * k){
+                left++;
+            }
+            ans = max(ans, i - left + 1);
         }
         return ans;
     }
@@ -19,11 +25,11 @@ public:
 
  
 int main(){
-    vector<int> nums = {1,2,3,4};
-    // int k = 2;
+    vector<int> nums = {4, 6, 1, 2};
+    int k = 2;
 
     Solution solution;
-    int result = solution.sumOfSquares(nums);
+    int result = solution.maximumBeauty(nums);
     cout << "result: " << result << endl;
 }
 
