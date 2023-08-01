@@ -13,4 +13,5 @@
 | 7    | 实现 Trie (前缀树)         | [C++](208.%20实现%20Trie%20(前缀树)/solution.cpp)     | Medium     | 前缀树          |
 | 8    | 搜索推荐系统               | [C++](1268.%20搜索推荐系统/solution.cpp)              | Medium     | 前缀树          |
 | 9    | 无重叠区间                 | [C++](435.%20无重叠区间/solution.cpp)                 | Medium     | 区间集合        |
+| 10   | 用最少数量的箭引爆气球     | [C++](452.%20用最少数量的箭引爆气球 /solution.cpp)    | Medium     | 区间集合        |
 
