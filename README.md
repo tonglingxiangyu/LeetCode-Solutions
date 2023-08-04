@@ -16,4 +16,5 @@
 | 10   | 用最少数量的箭引爆气球     | [C++](452.%20用最少数量的箭引爆气球/solution.cpp)     | Medium     | 区间集合        |
 | 11   | 每日温度                   | [C++](739.%20每日温度/solution.cpp)                   | Medium     | 单调栈          |
 | 12   | 股票价格跨度               | [C++](901.%20股票价格跨度/solution.cpp)               | Medium     | 单调栈          |
+| 13   | 不同路径 III               | [C++](980.%20不同路径%20III/solution.cpp)             | Hard       | 回溯            |
 
