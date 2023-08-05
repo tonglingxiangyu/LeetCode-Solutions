@@ -17,4 +17,5 @@
 | 11   | 每日温度                   | [C++](739.%20每日温度/solution.cpp)                   | Medium     | 单调栈          |
 | 12   | 股票价格跨度               | [C++](901.%20股票价格跨度/solution.cpp)               | Medium     | 单调栈          |
 | 13   | 不同路径 III               | [C++](980.%20不同路径%20III/solution.cpp)             | Hard       | 回溯            |
+| 14   | 合并两个有序链表           | [C++](21.%20合并两个有序链表/solution.cpp)            | Easy       |                 |
 
