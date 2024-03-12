@@ -50,6 +50,6 @@
 
 | NO.  | Title         | Solution                                                     | Difficulty | Tag      |
 | ---- | ------------- | ------------------------------------------------------------ | ---------- | -------- |
-| 0    | 704. 二分查找 | [C++](704.%20二分查找/solution.cpp)、[java](704.%20二分查找/solution.java) | Easy       | 二分查找 |
-| 1    | 27. 移除元素  | [C++](27.%20移除元素/Solution.py)、[java](27.%20移除元素/Solution.java) | Easy       | 快慢指针 |
+| 0    | 704. 二分查找 | [python](704.%20二分查找/solution.py)、[java](704.%20二分查找/solution.java) | Easy       | 二分查找 |
+| 1    | 27. 移除元素  | [python]](27.%20移除元素/Solution.py)、[java](27.%20移除元素/Solution.java) | Easy       | 快慢指针 |
 
