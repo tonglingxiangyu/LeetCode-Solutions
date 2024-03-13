@@ -48,8 +48,9 @@
 
 代码随想录刷题记录
 
-| NO.  | Title         | Solution                                                     | Difficulty | Tag      |
-| ---- | ------------- | ------------------------------------------------------------ | ---------- | -------- |
-| 0    | 704. 二分查找 | [python](704.%20二分查找/solution.py)、[java](704.%20二分查找/solution.java) | Easy       | 二分查找 |
-| 1    | 27. 移除元素  | [python](27.%20移除元素/Solution.py)、[java](27.%20移除元素/Solution.java) | Easy       | 快慢指针 |
+| NO.  | Title               | Solution                                                     | Difficulty | Tag      |
+| ---- | ------------------- | ------------------------------------------------------------ | ---------- | -------- |
+| 0    | 704. 二分查找       | [python](704.%20二分查找/solution.py)、[java](704.%20二分查找/solution.java) | Easy       | 二分查找 |
+| 1    | 27. 移除元素        | [python](27.%20移除元素/Solution.py)、[java](27.%20移除元素/Solution.java) | Easy       | 快慢指针 |
+| 2    | 977. 有序数组的平方 | [python](977.%20有序数组的平方/Solution.py)、[java](977.%20有序数组的平方/Solution.java) | Easy       |          |
 
