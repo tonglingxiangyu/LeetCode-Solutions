@@ -54,4 +54,5 @@
 | 1    | 27. 移除元素          | [python](27.%20移除元素/Solution.py)、[java](27.%20移除元素/Solution.java) | Easy       | 快慢指针         |
 | 2    | 977. 有序数组的平方   | [python](977.%20有序数组的平方/Solution.py)、[java](977.%20有序数组的平方/Solution.java) | Easy       |                  |
 | 3    | 209. 长度最小的子数组 | [python](209.%20长度最小的子数组/Solution.py)、[java](209.%20长度最小的子数组/Solution.java) | Medium     | 双指针、滑动窗口 |
+| 4    | 59. 螺旋矩阵 II       | [python](59.%20螺旋矩阵%20II/Solution.py)、[java](59.%20螺旋矩阵%20II/Solution.java) | Medium     | 顺时针模拟       |
 
