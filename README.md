@@ -57,4 +57,5 @@
 | 4    | 59. 螺旋矩阵 II       | [python](59.%20螺旋矩阵%20II/Solution.py)、[java](59.%20螺旋矩阵%20II/Solution.java) | Medium     | 顺时针模拟       |
 | 5    | 203. 移除链表元素     | [python](203.%20移除链表元素/Solution.py)、[java](203.%20移除链表元素/Solution.java) | Easy       |                  |
 | 6    | 707. 设计链表         | [python](707.%20设计链表/Solution.py)、[java](707.%20设计链表/Solution.java) | Medium     |                  |
+| 7    | 206. 反转链表         | [python](206.%20反转链表/Solution.py)、[java](206.%20反转链表/Solution.java) | Easy       |                  |
 
