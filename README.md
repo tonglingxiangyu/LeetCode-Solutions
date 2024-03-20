@@ -48,15 +48,16 @@
 
 代码随想录刷题记录
 
-| NO.  | Title                   | Solution                                                     | Difficulty | Tag              |
-| ---- | ----------------------- | ------------------------------------------------------------ | ---------- | ---------------- |
-| 0    | 704. 二分查找           | [python](704.%20二分查找/solution.py)、[java](704.%20二分查找/solution.java) | Easy       | 二分查找         |
-| 1    | 27. 移除元素            | [python](27.%20移除元素/Solution.py)、[java](27.%20移除元素/Solution.java) | Easy       | 快慢指针         |
-| 2    | 977. 有序数组的平方     | [python](977.%20有序数组的平方/Solution.py)、[java](977.%20有序数组的平方/Solution.java) | Easy       |                  |
-| 3    | 209. 长度最小的子数组   | [python](209.%20长度最小的子数组/Solution.py)、[java](209.%20长度最小的子数组/Solution.java) | Medium     | 双指针、滑动窗口 |
-| 4    | 59. 螺旋矩阵 II         | [python](59.%20螺旋矩阵%20II/Solution.py)、[java](59.%20螺旋矩阵%20II/Solution.java) | Medium     | 顺时针模拟       |
-| 5    | 203. 移除链表元素       | [python](203.%20移除链表元素/Solution.py)、[java](203.%20移除链表元素/Solution.java) | Easy       |                  |
-| 6    | 707. 设计链表           | [python](707.%20设计链表/Solution.py)、[java](707.%20设计链表/Solution.java) | Medium     |                  |
-| 7    | 206. 反转链表           | [python](206.%20反转链表/Solution.py)、[java](206.%20反转链表/Solution.java) | Easy       |                  |
-| 8    | 24.两两交换链表中的节点 | [python](24.两两交换链表中的节点/Solution.pu)、[java](24.两两交换链表中的节点/Solution.java) | Medium     | 递归             |
+| NO.  | Title                         | Solution                                                     | Difficulty | Tag              |
+| ---- | ----------------------------- | ------------------------------------------------------------ | ---------- | ---------------- |
+| 0    | 704. 二分查找                 | [python](704.%20二分查找/solution.py)、[java](704.%20二分查找/solution.java) | Easy       | 二分查找         |
+| 1    | 27. 移除元素                  | [python](27.%20移除元素/Solution.py)、[java](27.%20移除元素/Solution.java) | Easy       | 快慢指针         |
+| 2    | 977. 有序数组的平方           | [python](977.%20有序数组的平方/Solution.py)、[java](977.%20有序数组的平方/Solution.java) | Easy       |                  |
+| 3    | 209. 长度最小的子数组         | [python](209.%20长度最小的子数组/Solution.py)、[java](209.%20长度最小的子数组/Solution.java) | Medium     | 双指针、滑动窗口 |
+| 4    | 59. 螺旋矩阵 II               | [python](59.%20螺旋矩阵%20II/Solution.py)、[java](59.%20螺旋矩阵%20II/Solution.java) | Medium     | 顺时针模拟       |
+| 5    | 203. 移除链表元素             | [python](203.%20移除链表元素/Solution.py)、[java](203.%20移除链表元素/Solution.java) | Easy       |                  |
+| 6    | 707. 设计链表                 | [python](707.%20设计链表/Solution.py)、[java](707.%20设计链表/Solution.java) | Medium     |                  |
+| 7    | 206. 反转链表                 | [python](206.%20反转链表/Solution.py)、[java](206.%20反转链表/Solution.java) | Easy       |                  |
+| 8    | 24.两两交换链表中的节点       | [python](24.两两交换链表中的节点/Solution.pu)、[java](24.两两交换链表中的节点/Solution.java) | Medium     | 递归             |
+| 9    | 19. 删除链表的倒数第 N 个结点 | [python](19.%20删除链表的倒数第 N 个结点/Solution.py)、[java](19.%20删除链表的倒数第 N 个结点/Solution.java) | Medium     |                  |
 
