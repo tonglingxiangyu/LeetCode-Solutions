@@ -60,4 +60,6 @@
 | 7    | 206. 反转链表                 | [python](206.%20反转链表/Solution.py)、[java](206.%20反转链表/Solution.java) | Easy       |                  |
 | 8    | 24.两两交换链表中的节点       | [python](24.两两交换链表中的节点/Solution.pu)、[java](24.两两交换链表中的节点/Solution.java) | Medium     | 递归             |
 | 9    | 19. 删除链表的倒数第 N 个结点 | [python](19.%20删除链表的倒数第 N 个结点/Solution.py)、[java](19.%20删除链表的倒数第 N 个结点/Solution.java) | Medium     |                  |
+| 10   | 面试题 02.07. 链表相交        | [python](面试题%2002.07.%20链表相交/Solution.py)、[java](面试题%2002.07.%20链表相交/Solution.java) | Easy       |                  |
+| 11   | 142. 环形链表 II              | [python](142.%20环形链表%20II/Solution.py)、[java](142.%20环形链表%20II/Solution.java) | Medium     | 快慢指针         |
 
