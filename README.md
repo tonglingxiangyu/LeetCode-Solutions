@@ -62,4 +62,7 @@
 | 9    | 19. 删除链表的倒数第 N 个结点 | [python](19.%20删除链表的倒数第 N 个结点/Solution.py)、[java](19.%20删除链表的倒数第 N 个结点/Solution.java) | Medium     |                  |
 | 10   | 面试题 02.07. 链表相交        | [python](面试题%2002.07.%20链表相交/Solution.py)、[java](面试题%2002.07.%20链表相交/Solution.java) | Easy       |                  |
 | 11   | 142. 环形链表 II              | [python](142.%20环形链表%20II/Solution.py)、[java](142.%20环形链表%20II/Solution.java) | Medium     | 快慢指针         |
+| 12   | 242. 有效的字母异位词         | [python](242.%20有效的字母异位词/Solution.py)、[java](242.%20有效的字母异位词/Solution.java) | Easy       |                  |
+| 13   | 349. 两个数组的交集           | [python](349.%20两个数组的交集/Solution.py)、[java](349.%20两个数组的交集/Solution.java) | Easy       |                  |
+| 14   | 202. 快乐数                   | [python](202.%20快乐数/Solution.py)、[java](202.%20快乐数/Solution.java) | Easy       |                  |
 
