@@ -67,4 +67,5 @@
 | 14   | 202. 快乐数                   | [python](202.%20快乐数/Solution.py)、[java](202.%20快乐数/Solution.java) | Easy       |                  |
 | 15   | 1. 两数之和                   | [python](1.%20两数之和/Solution.py)、[java](1.%20两数之和/Solution.java) | Easy       | 哈希表           |
 | 16   | 454. 四数相加 II              | [python](454.%20四数相加%20II/Solution.py)、[java](454.%20四数相加%20II/Solution.java) | Medium     | 哈希表           |
+| 17   | 383. 赎金信                   | [python](383.%20赎金信/Solution.py)、[java](383.%20赎金信/Solution.java) | Easy       | 哈希表           |
 
