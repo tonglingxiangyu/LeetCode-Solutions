@@ -48,24 +48,35 @@
 
 代码随想录刷题记录
 
-| NO.  | Title                         | Solution                                                     | Difficulty | Tag              |
-| ---- | ----------------------------- | ------------------------------------------------------------ | ---------- | ---------------- |
-| 0    | 704. 二分查找                 | [python](704.%20二分查找/solution.py)、[java](704.%20二分查找/solution.java) | Easy       | 二分查找         |
-| 1    | 27. 移除元素                  | [python](27.%20移除元素/Solution.py)、[java](27.%20移除元素/Solution.java) | Easy       | 快慢指针         |
-| 2    | 977. 有序数组的平方           | [python](977.%20有序数组的平方/Solution.py)、[java](977.%20有序数组的平方/Solution.java) | Easy       |                  |
-| 3    | 209. 长度最小的子数组         | [python](209.%20长度最小的子数组/Solution.py)、[java](209.%20长度最小的子数组/Solution.java) | Medium     | 双指针、滑动窗口 |
-| 4    | 59. 螺旋矩阵 II               | [python](59.%20螺旋矩阵%20II/Solution.py)、[java](59.%20螺旋矩阵%20II/Solution.java) | Medium     | 顺时针模拟       |
-| 5    | 203. 移除链表元素             | [python](203.%20移除链表元素/Solution.py)、[java](203.%20移除链表元素/Solution.java) | Easy       |                  |
-| 6    | 707. 设计链表                 | [python](707.%20设计链表/Solution.py)、[java](707.%20设计链表/Solution.java) | Medium     |                  |
-| 7    | 206. 反转链表                 | [python](206.%20反转链表/Solution.py)、[java](206.%20反转链表/Solution.java) | Easy       |                  |
-| 8    | 24.两两交换链表中的节点       | [python](24.两两交换链表中的节点/Solution.pu)、[java](24.两两交换链表中的节点/Solution.java) | Medium     | 递归             |
-| 9    | 19. 删除链表的倒数第 N 个结点 | [python](19.%20删除链表的倒数第 N 个结点/Solution.py)、[java](19.%20删除链表的倒数第 N 个结点/Solution.java) | Medium     |                  |
-| 10   | 面试题 02.07. 链表相交        | [python](面试题%2002.07.%20链表相交/Solution.py)、[java](面试题%2002.07.%20链表相交/Solution.java) | Easy       |                  |
-| 11   | 142. 环形链表 II              | [python](142.%20环形链表%20II/Solution.py)、[java](142.%20环形链表%20II/Solution.java) | Medium     | 快慢指针         |
-| 12   | 242. 有效的字母异位词         | [python](242.%20有效的字母异位词/Solution.py)、[java](242.%20有效的字母异位词/Solution.java) | Easy       |                  |
-| 13   | 349. 两个数组的交集           | [python](349.%20两个数组的交集/Solution.py)、[java](349.%20两个数组的交集/Solution.java) | Easy       |                  |
-| 14   | 202. 快乐数                   | [python](202.%20快乐数/Solution.py)、[java](202.%20快乐数/Solution.java) | Easy       |                  |
-| 15   | 1. 两数之和                   | [python](1.%20两数之和/Solution.py)、[java](1.%20两数之和/Solution.java) | Easy       | 哈希表           |
-| 16   | 454. 四数相加 II              | [python](454.%20四数相加%20II/Solution.py)、[java](454.%20四数相加%20II/Solution.java) | Medium     | 哈希表           |
-| 17   | 383. 赎金信                   | [python](383.%20赎金信/Solution.py)、[java](383.%20赎金信/Solution.java) | Easy       | 哈希表           |
+- 0-4 数组
+- 5-11链表
+- 12-19哈希表
+- 20- 23字符串
+
+| NO.  | Title                              | Solution                                                     | Difficulty | Tag              |
+| ---- | ---------------------------------- | ------------------------------------------------------------ | ---------- | ---------------- |
+| 0    | 704. 二分查找                      | [python](704.%20二分查找/solution.py)、[java](704.%20二分查找/solution.java) | Easy       | 二分查找         |
+| 1    | 27. 移除元素                       | [python](27.%20移除元素/Solution.py)、[java](27.%20移除元素/Solution.java) | Easy       | 快慢指针         |
+| 2    | 977. 有序数组的平方                | [python](977.%20有序数组的平方/Solution.py)、[java](977.%20有序数组的平方/Solution.java) | Easy       |                  |
+| 3    | 209. 长度最小的子数组              | [python](209.%20长度最小的子数组/Solution.py)、[java](209.%20长度最小的子数组/Solution.java) | Medium     | 双指针、滑动窗口 |
+| 4    | 59. 螺旋矩阵 II                    | [python](59.%20螺旋矩阵%20II/Solution.py)、[java](59.%20螺旋矩阵%20II/Solution.java) | Medium     | 顺时针模拟       |
+| 5    | 203. 移除链表元素                  | [python](203.%20移除链表元素/Solution.py)、[java](203.%20移除链表元素/Solution.java) | Easy       |                  |
+| 6    | 707. 设计链表                      | [python](707.%20设计链表/Solution.py)、[java](707.%20设计链表/Solution.java) | Medium     |                  |
+| 7    | 206. 反转链表                      | [python](206.%20反转链表/Solution.py)、[java](206.%20反转链表/Solution.java) | Easy       |                  |
+| 8    | 24.两两交换链表中的节点            | [python](24.两两交换链表中的节点/Solution.pu)、[java](24.两两交换链表中的节点/Solution.java) | Medium     | 递归             |
+| 9    | 19. 删除链表的倒数第 N 个结点      | [python](19.%20删除链表的倒数第 N 个结点/Solution.py)、[java](19.%20删除链表的倒数第 N 个结点/Solution.java) | Medium     |                  |
+| 10   | 面试题 02.07. 链表相交             | [python](面试题%2002.07.%20链表相交/Solution.py)、[java](面试题%2002.07.%20链表相交/Solution.java) | Easy       |                  |
+| 11   | 142. 环形链表 II                   | [python](142.%20环形链表%20II/Solution.py)、[java](142.%20环形链表%20II/Solution.java) | Medium     | 快慢指针         |
+| 12   | 242. 有效的字母异位词              | [python](242.%20有效的字母异位词/Solution.py)、[java](242.%20有效的字母异位词/Solution.java) | Easy       |                  |
+| 13   | 349. 两个数组的交集                | [python](349.%20两个数组的交集/Solution.py)、[java](349.%20两个数组的交集/Solution.java) | Easy       |                  |
+| 14   | 202. 快乐数                        | [python](202.%20快乐数/Solution.py)、[java](202.%20快乐数/Solution.java) | Easy       |                  |
+| 15   | 1. 两数之和                        | [python](1.%20两数之和/Solution.py)、[java](1.%20两数之和/Solution.java) | Easy       | 哈希表           |
+| 16   | 454. 四数相加 II                   | [python](454.%20四数相加%20II/Solution.py)、[java](454.%20四数相加%20II/Solution.java) | Medium     | 哈希表           |
+| 17   | 383. 赎金信                        | [python](383.%20赎金信/Solution.py)、[java](383.%20赎金信/Solution.java) | Easy       | 哈希表           |
+| 18   | 15. 三数之和                       | [python](15.%20三数之和/Solution.py)、[java](15.%20三数之和/Solution.java) | Medium     | 双指针           |
+| 19   | 18. 四数之和                       | [python](18.%20四数之和/Solution.py)、[java](18.%20四数之和/Solution.java) | Medium     | 双指针           |
+| 20   | 541. 反转字符串 II                 | [python](541.%20反转字符串%20II/Solution.py)、[java](541.%20反转字符串%20II/Solution.java)、[C++](541.%20反转字符串%20II/Solution.cpp) | Easy       | 双指针           |
+| 21   | 151. 反转字符串中的单词            | [python](151.%20反转字符串中的单词/Solution.py)、[C++](151.%20反转字符串中的单词/Solution.cpp) | Medium     | 双指针           |
+| 22   | 28. 找出字符串中第一个匹配项的下标 | [python](28.%20找出字符串中第一个匹配项的下标/Solution.py)、[C++](28.%20找出字符串中第一个匹配项的下标/Solution.cpp) | Easy       | KMP              |
+| 23   | 459. 重复的子字符串                | [python](459.%20重复的子字符串/Solution.py)、[C++](459.%20重复的子字符串/Solution.cpp) | Easy       | KMP              |
 
