@@ -65,7 +65,7 @@
 | 5    | 203. 移除链表元素                  | [python](203.%20移除链表元素/Solution.py)、[java](203.%20移除链表元素/Solution.java) | Easy       |                  |
 | 6    | 707. 设计链表                      | [python](707.%20设计链表/Solution.py)、[java](707.%20设计链表/Solution.java) | Medium     |                  |
 | 7    | 206. 反转链表                      | [python](206.%20反转链表/Solution.py)、[java](206.%20反转链表/Solution.java) | Easy       |                  |
-| 8    | 24.两两交换链表中的节点            | [python](24.两两交换链表中的节点/Solution.pu)、[java](24.两两交换链表中的节点/Solution.java) | Medium     | 递归             |
+| 8    | 24.两两交换链表中的节点            | [python](24.两两交换链表中的节点/Solution.py)、[java](24.两两交换链表中的节点/Solution.java) | Medium     | 递归             |
 | 9    | 19. 删除链表的倒数第 N 个结点      | [python](19.%20删除链表的倒数第%20N%20个结点/Solution.py)、[java](19.%20删除链表的倒数第%20N%20个结点/Solution.java) | Medium     |                  |
 | 10   | 面试题 02.07. 链表相交             | [python](面试题%2002.07.%20链表相交/Solution.py)、[java](面试题%2002.07.%20链表相交/Solution.java) | Easy       |                  |
 | 11   | 142. 环形链表 II                   | [python](142.%20环形链表%20II/Solution.py)、[java](142.%20环形链表%20II/Solution.java) | Medium     | 快慢指针         |
@@ -87,6 +87,7 @@
 | 27   | 347. 前 K 个高频元素           | [python](347.%20前%20K%20个高频元素/Solution.py)、[C++](347.%20前%20K%20个高频元素/Solution.cpp) | Medium     | 优先队列、堆           |
 | 28   | 144. 二叉树的前序遍历           | [python](144.%20二叉树的前序遍历/Solution.py)、[C++](144.%20二叉树的前序遍历/Solution.cpp) | Easy     | 先序遍历         |
 | 29   | 94. 二叉树的中序遍历           | [python](94.%20二叉树的中序遍历/Solution.py)、[C++](94.%20二叉树的中序遍历/Solution.cpp) | Easy     | 中序遍历         |
-| 29   | 145. 二叉树的后序遍历           | [python](145.%20二叉树的后序遍历/Solution.py)、[C++](145.%20二叉树的后序遍历/Solution.cpp) | Easy     | 后序遍历         |
+| 30   | 145. 二叉树的后序遍历           | [python](145.%20二叉树的后序遍历/Solution.py)、[C++](145.%20二叉树的后序遍历/Solution.cpp) | Easy     | 后序遍历         |
+| 31   | 102. 二叉树的层序遍历           | [python](102.%20二叉树的层序遍历/Solution.py)、[C++](102.%20二叉树的层序遍历/Solution.cpp) | Medium     | 层序遍历         |
 
 
