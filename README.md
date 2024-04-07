@@ -89,5 +89,9 @@
 | 29   | 94. 二叉树的中序遍历           | [python](94.%20二叉树的中序遍历/Solution.py)、[C++](94.%20二叉树的中序遍历/Solution.cpp) | Easy     | 中序遍历         |
 | 30   | 145. 二叉树的后序遍历           | [python](145.%20二叉树的后序遍历/Solution.py)、[C++](145.%20二叉树的后序遍历/Solution.cpp) | Easy     | 后序遍历         |
 | 31   | 102. 二叉树的层序遍历           | [python](102.%20二叉树的层序遍历/Solution.py)、[C++](102.%20二叉树的层序遍历/Solution.cpp) | Medium     | 层序遍历         |
-
+| 32   | 199. 二叉树的右视图           | [python](199.%20二叉树的右视图/Solution.py)、[C++](199.%20二叉树的右视图/Solution.cpp) | Medium     | 层序遍历         |
+| 33   | 226. 翻转二叉树           | [python](226.%20翻转二叉树/Solution.py)、[C++](226.%20翻转二叉树/Solution.cpp) | Easy     | 翻转二叉树         |
+| 34   | 101. 对称二叉树          | [python](101.%20对称二叉树/Solution.py)、[C++](101.%20对称二叉树/Solution.cpp) | Easy     | 对称二叉树         |
+| 35   | 110. 平衡二叉树          | [python](110.%20平衡二叉树/Solution.py)、[C++](110.%20平衡二叉树/Solution.cpp) | Easy     | 平衡二叉树         |
+| 36   | 257. 二叉树的所有路径        | [python](257.%20二叉树的所有路径/Solution.py)、[C++](257.%20二叉树的所有路径/Solution.cpp) | Easy     | 回溯         |
 
