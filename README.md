@@ -94,4 +94,7 @@
 | 34   | 101. 对称二叉树          | [python](101.%20对称二叉树/Solution.py)、[C++](101.%20对称二叉树/Solution.cpp) | Easy     | 对称二叉树         |
 | 35   | 110. 平衡二叉树          | [python](110.%20平衡二叉树/Solution.py)、[C++](110.%20平衡二叉树/Solution.cpp) | Easy     | 平衡二叉树         |
 | 36   | 257. 二叉树的所有路径        | [python](257.%20二叉树的所有路径/Solution.py)、[C++](257.%20二叉树的所有路径/Solution.cpp) | Easy     | 回溯         |
+| 37   | 404. 左叶子之和        | [python](404.%20左叶子之和/Solution.py)、[C++](404.%20左叶子之和/Solution.cpp) | Easy     |         |
+| 38   | 106. 从中序与后序遍历序列构造二叉树        | [python](106.%20从中序与后序遍历序列构造二叉树/Solution.py)、[C++](106.%20从中序与后序遍历序列构造二叉树/Solution.cpp) | Medium     |   二叉树构造      |
+| 39   | 654. 最大二叉树      | [python](654.%20最大二叉树/Solution.py)、[C++](654.%20最大二叉树/Solution.cpp) | Medium    |         |
 
