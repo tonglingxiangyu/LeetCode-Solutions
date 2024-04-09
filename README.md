@@ -97,4 +97,8 @@
 | 37   | 404. 左叶子之和        | [python](404.%20左叶子之和/Solution.py)、[C++](404.%20左叶子之和/Solution.cpp) | Easy     |         |
 | 38   | 106. 从中序与后序遍历序列构造二叉树        | [python](106.%20从中序与后序遍历序列构造二叉树/Solution.py)、[C++](106.%20从中序与后序遍历序列构造二叉树/Solution.cpp) | Medium     |   二叉树构造      |
 | 39   | 654. 最大二叉树      | [python](654.%20最大二叉树/Solution.py)、[C++](654.%20最大二叉树/Solution.cpp) | Medium    |         |
-
+| 40   | 700. 二叉搜索树中的搜索      | [python](700.%20二叉搜索树中的搜索/Solution.py)、[C++](700.%20二叉搜索树中的搜索/Solution.cpp) | Easy    |     二叉搜索树    |
+| 41   | 98. 验证二叉搜索树      | [python](98.%20验证二叉搜索树/Solution.py)、[C++](98.%20验证二叉搜索树/Solution.cpp) | Medium    |     二叉搜索树    |
+| 42   | 530. 二叉搜索树的最小绝对差      | [python](530.%20二叉搜索树的最小绝对差/Solution.py)、[C++](530.%20二叉搜索树的最小绝对差/Solution.cpp) | Easy    |     二叉搜索树    |
+| 43   | 501. 二叉搜索树中的众数      | [python](501.%20二叉搜索树中的众数/Solution.py)、[C++](501.%20二叉搜索树中的众数/Solution.cpp) | Easy    |     二叉搜索树    |
+| 44   | 236. 二叉树的最近公共祖先      | [python](236.%20二叉树的最近公共祖先/Solution.py)、[C++](236.%20二叉树的最近公共祖先/Solution.cpp) | Medium    |     二叉搜索树    |
