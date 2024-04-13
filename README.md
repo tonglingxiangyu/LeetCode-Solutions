@@ -101,4 +101,10 @@
 | 41   | 98. 验证二叉搜索树      | [python](98.%20验证二叉搜索树/Solution.py)、[C++](98.%20验证二叉搜索树/Solution.cpp) | Medium    |     二叉搜索树    |
 | 42   | 530. 二叉搜索树的最小绝对差      | [python](530.%20二叉搜索树的最小绝对差/Solution.py)、[C++](530.%20二叉搜索树的最小绝对差/Solution.cpp) | Easy    |     二叉搜索树    |
 | 43   | 501. 二叉搜索树中的众数      | [python](501.%20二叉搜索树中的众数/Solution.py)、[C++](501.%20二叉搜索树中的众数/Solution.cpp) | Easy    |     二叉搜索树    |
-| 44   | 236. 二叉树的最近公共祖先      | [python](236.%20二叉树的最近公共祖先/Solution.py)、[C++](236.%20二叉树的最近公共祖先/Solution.cpp) | Medium    |     二叉搜索树    |
+| 44   | 236. 二叉树的最近公共祖先      | [python](236.%20二叉树的最近公共祖先/Solution.py)、[C++](236.%20二叉树的最近公共祖先/Solution.cpp) | Medium    |     二叉树最近公共祖先    |
+| 45   | 235. 二叉搜索树的最近公共祖先      | [python](235.%20二叉搜索树的最近公共祖先/Solution.py)、[C++](235.%20二叉搜索树的最近公共祖先/Solution.cpp) | Medium    |     二叉树搜索树    |
+| 46   | 701. 二叉搜索树中的插入操作      | [python](701.%20二叉搜索树中的插入操作/Solution.py)、[C++](701.%20二叉搜索树中的插入操作/Solution.cpp) | Medium    |     二叉树搜索树    |
+| 47   | 450. 删除二叉搜索树中的节点      | [python](450.%20删除二叉搜索树中的节点/Solution.py)、[C++](450.%20删除二叉搜索树中的节点/Solution.cpp) 、[java](450.%20删除二叉搜索树中的节点/Solution.java)| Medium    |     二叉树搜索树    |
+| 48   | 669. 修剪二叉搜索树      | [python](669.%20修剪二叉搜索树/Solution.py)、[C++](669.%20修剪二叉搜索树/Solution.cpp) 、[java](669.%20修剪二叉搜索树/Solution.java)| Medium    |     二叉树搜索树    |
+| 49   | 108. 将有序数组转换为二叉搜索树      | [python](108.%20将有序数组转换为二叉搜索树/Solution.py)、[C++](108.%20将有序数组转换为二叉搜索树/Solution.cpp) | Easy   |     二叉搜索树    |
+| 50   | 538. 把二叉搜索树转换为累加树      | [python](538.%20把二叉搜索树转换为累加树/Solution.py)、[C++](6538.%20把二叉搜索树转换为累加树/Solution.cpp) 、[java](538.%20把二叉搜索树转换为累加树/Solution.java)| Medium    |     二叉树搜索树    |
