@@ -112,5 +112,10 @@
 | 51   | 77. 组合      | [python](77.%20组合/Solution.py)、[C++](77.%20组合/Solution.cpp) 、[java](577.%20组合/Solution.java)| Medium    |     组合型回溯    |
 | 52   | 216. 组合总和 III      | [python](216.%20组合总和%20III/Solution.py)、[C++](216.%20组合总和%20III/Solution.cpp) 、[java](216.%20组合总和%20III/Solution.java)| Medium    |     组合型回溯    |
 | 53   | 17. 电话号码的字母组合      | [python](17.%20电话号码的字母组合/Solution.py)、[C++](17.%20电话号码的字母组合/Solution.cpp) 、[java](17.%20电话号码的字母组合/Solution.java)| Medium    |     组合型回溯    |
+| 54   | 39. 组合总和      | [python](39.%20组合总和/Solution.py)、[C++](39.%20组合总和/Solution.cpp) 、[java](39.%20组合总和/Solution.java)| Medium    |     组合型回溯    |
+
+
+
+
 | 54   | 376. 摆动序列      | [python](376.%20摆动序列/Solution.py)、[C++](376.%20摆动序列/Solution.cpp) 、[java](376.%20摆动序列/Solution.java)| Medium    |     贪心    |
 | 55   | 53. 最大子数组和      | [python](53.%20最大子数组和/Solution.py)、[C++](53.%20最大子数组和/Solution.cpp) 、[java](53.%20最大子数组和/Solution.java)| Medium    |     贪心    |
