@@ -113,7 +113,8 @@
 | 52   | 216. 组合总和 III      | [python](216.%20组合总和%20III/Solution.py)、[C++](216.%20组合总和%20III/Solution.cpp) 、[java](216.%20组合总和%20III/Solution.java)| Medium    |     组合型回溯    |
 | 53   | 17. 电话号码的字母组合      | [python](17.%20电话号码的字母组合/Solution.py)、[C++](17.%20电话号码的字母组合/Solution.cpp) 、[java](17.%20电话号码的字母组合/Solution.java)| Medium    |     组合型回溯    |
 | 54   | 39. 组合总和      | [python](39.%20组合总和/Solution.py)、[C++](39.%20组合总和/Solution.cpp) 、[java](39.%20组合总和/Solution.java)| Medium    |     组合型回溯    |
-
+| 55   | 40. 组合总和 II     | [python](40.%20组合总和%20II/Solution.py)、[C++](40.%20组合总和%20II/Solution.cpp) 、[java](40.%20组合总和%20II/Solution.java)| Medium    |     组合型回溯    |
+| 56   | 131. 分割回文串     | [python](131.%20分割回文串/Solution.py)、[C++](131.%20分割回文串/Solution.cpp) 、[java](131.%20分割回文串/Solution.java)| Medium    |     组合型回溯    |
 
 
 
