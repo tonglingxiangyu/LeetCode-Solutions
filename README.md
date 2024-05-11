@@ -114,8 +114,9 @@
 | 53   | 17. 电话号码的字母组合      | [python](17.%20电话号码的字母组合/Solution.py)、[C++](17.%20电话号码的字母组合/Solution.cpp) 、[java](17.%20电话号码的字母组合/Solution.java)| Medium    |     组合型回溯    |
 | 54   | 39. 组合总和      | [python](39.%20组合总和/Solution.py)、[C++](39.%20组合总和/Solution.cpp) 、[java](39.%20组合总和/Solution.java)| Medium    |     组合型回溯    |
 | 55   | 40. 组合总和 II     | [python](40.%20组合总和%20II/Solution.py)、[C++](40.%20组合总和%20II/Solution.cpp) 、[java](40.%20组合总和%20II/Solution.java)| Medium    |     组合型回溯    |
-| 56   | 131. 分割回文串     | [python](131.%20分割回文串/Solution.py)、[C++](131.%20分割回文串/Solution.cpp) 、[java](131.%20分割回文串/Solution.java)| Medium    |     组合型回溯    |
-
+| 56   | 131. 分割回文串     | [python](131.%20分割回文串/Solution.py)、[C++](131.%20分割回文串/Solution.cpp) 、[java](131.%20分割回文串/Solution.java)| Medium    |     切割型回溯    |
+| 57   | 93. 复原 IP 地址     | [python](93.%20复原%20IP%20地址/Solution.py)、[C++](93.%20复原%20IP%20地址/Solution.cpp) 、[java](93.%20复原%20IP%20地址/Solution.java)| Medium    |     切割型回溯    |
+| 58   | 78. 子集    | [python](78.%20子集/Solution.py)、[C++](78.%20子集/Solution.cpp) 、[java](78.%20子集/Solution.java)| Medium    |     子集型回溯    |
 
 
 | 54   | 376. 摆动序列      | [python](376.%20摆动序列/Solution.py)、[C++](376.%20摆动序列/Solution.cpp) 、[java](376.%20摆动序列/Solution.java)| Medium    |     贪心    |
