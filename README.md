@@ -48,13 +48,13 @@
 
 代码随想录刷题记录
 
-- 0-4 数组
-- 5-11链表
-- 12-19哈希表
-- 20- 23字符串
-- 24-27 栈与队列
-- 28-50 二叉树
-- 51- 回溯
+- 0 - 4 数组
+- 5 -11链表
+- 12 -19 哈希表
+- 20 - 23 字符串
+- 24 - 27 栈与队列
+- 28 - 50 二叉树
+- 51- 64 回溯
 
 | NO.  | Title                              | Solution                                                     | Difficulty | Tag              |
 | ---- | ---------------------------------- | ------------------------------------------------------------ | ---------- | ---------------- |
@@ -120,8 +120,8 @@
 | 59   | 491. 非递减子序列    | [python](491.%20非递减子序列/Solution.py)、[C++](491.%20非递减子序列/Solution.cpp) 、[java](491.%20非递减子序列/Solution.java)| Medium    |     子集型回溯    |
 | 60   | 46. 全排列    | [python](46.%20全排列/Solution.py)、[C++](46.%20全排列/Solution.cpp) 、[java](46.%20全排列/Solution.java)| Medium    |     排列型回溯    |
 | 61   | 47. 全排列 II   | [python](47.%20全排列%20II/Solution.py)、[C++](47.%20全排列%20II/Solution.cpp) 、[java](47.%20全排列%20II/Solution.java)| Medium    |     排列型回溯    |
-| 62   | 332. 重新安排行程   | [python](332.%20重新安排行程/Solution.py)、[C++](332.%20重新安排行程/Solution.cpp) 、[java](332.%20重新安排行程/Solution.java)| Hard    |     图回溯    |
-| 63   | 51. N 皇后   | [python](51.%20N%20皇后/Solution.py)、[C++](51.%20N%20皇后/Solution.cpp) 、[java](51.%20N%20皇后/Solution.java)| Hard    |     一维回溯    |
-| 64   | 37. 解数独   | [python](37.%20解数独/Solution.py)、[C++](37.%20解数独/Solution.cpp) 、[java](37.%20解数独/Solution.java)| Hard    |     二维回溯    |
+| 62   | 332. 重新安排行程   | [python](332.%20重新安排行程/Solution.py)| Hard    |     图回溯    |
+| 63   | 51. N 皇后   | [python](51.%20N%20皇后/Solution.py)| Hard    |     一维回溯    |
+| 64   | 37. 解数独   | [python](37.%20解数独/Solution.py)| Hard    |     二维回溯    |
 | 65   | 376. 摆动序列      | [python](376.%20摆动序列/Solution.py)、[C++](376.%20摆动序列/Solution.cpp) 、[java](376.%20摆动序列/Solution.java)| Medium    |     贪心    |
 | 66   | 53. 最大子数组和      | [python](53.%20最大子数组和/Solution.py)、[C++](53.%20最大子数组和/Solution.cpp) 、[java](53.%20最大子数组和/Solution.java)| Medium    |     贪心    |
