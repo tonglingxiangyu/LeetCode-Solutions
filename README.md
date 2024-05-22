@@ -127,3 +127,5 @@
 | 65   | 376. 摆动序列      | [python](376.%20摆动序列/Solution.py)、[C++](376.%20摆动序列/Solution.cpp) 、[java](376.%20摆动序列/Solution.java)| Medium    |     贪心    |
 | 66   | 53. 最大子数组和      | [python](53.%20最大子数组和/Solution.py)、[C++](53.%20最大子数组和/Solution.cpp) 、[java](53.%20最大子数组和/Solution.java)| Medium    |     贪心    |
 | 67   | 122. 买卖股票的最佳时机 II      | [python](122.%20买卖股票的最佳时机%20II/Solution.py)、[C++](122.%20买卖股票的最佳时机%20II/Solution.cpp) 、[java](122.%20买卖股票的最佳时机%20II/Solution.java)| Medium    |     贪心    |
+| 68   | 55. 跳跃游戏      | [python](55.%20跳跃游戏/Solution.py)、[C++](55.%20跳跃游戏/Solution.cpp) 、[java](55.%20跳跃游戏/Solution.java)| Medium    |     贪心    |
+
