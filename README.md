@@ -130,4 +130,6 @@
 | 68   | 55. 跳跃游戏      | [python](55.%20跳跃游戏/Solution.py)、[C++](55.%20跳跃游戏/Solution.cpp) 、[java](55.%20跳跃游戏/Solution.java)| Medium    |     贪心    |
 | 69   | 45. 跳跃游戏 II      | [python](45.%20跳跃游戏%20II/Solution.py)、[C++](45.%20跳跃游戏%20II/Solution.cpp) 、[java](45.%20跳跃游戏%20II/Solution.java)| Medium    |     贪心    |
 | 70   | 134. 加油站      | [python](134.%20加油站/Solution.py)、[C++](134.%20加油站/Solution.cpp) 、[java](134.%20加油站/Solution.java)| Medium    |     贪心    |
+| 71   | 135. 分发糖果      | [python](135.%20分发糖果/Solution.py)| Hard    |     贪心    |
+| 72   | 406. 根据身高重建队列      | [python](406.%20根据身高重建队列/Solution.py)、[C++](406.%20根据身高重建队列/Solution.cpp) 、[java](406.%20根据身高重建队列/Solution.java)| Medium    |     贪心    |
 
