@@ -133,4 +133,5 @@
 | 71   | 135. 分发糖果      | [python](135.%20分发糖果/Solution.py)| Hard    |     贪心    |
 | 72   | 406. 根据身高重建队列      | [python](406.%20根据身高重建队列/Solution.py)、[C++](406.%20根据身高重建队列/Solution.cpp) 、[java](406.%20根据身高重建队列/Solution.java)| Medium    |     贪心    |
 | 73   | 452.用最少数量的箭引爆气球     | [python](452.用最少数量的箭引爆气球/Solution.py)、[C++](452.用最少数量的箭引爆气球/Solution.cpp) 、[java](452.用最少数量的箭引爆气球/Solution.java)| Medium    |     贪心    |
+| 74   | 763. 划分字母区间     | [python](763.%20划分字母区间/Solution.py)、[C++](63.%20划分字母区间/Solution.cpp) 、[java](63.%20划分字母区间/Solution.java)| Medium    |     贪心    |
 
