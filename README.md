@@ -137,3 +137,6 @@
 | 74   | 763. 划分字母区间     | [python](763.%20划分字母区间/Solution.py)、[C++](63.%20划分字母区间/Solution.cpp) 、[java](63.%20划分字母区间/Solution.java)| Medium    |     贪心    |
 | 75   | 738. 单调递增的数字    | [python](738.%20单调递增的数字/Solution.py)、[C++](738.%20单调递增的数字/Solution.cpp) 、[java](738.%20单调递增的数字/Solution.java)| Medium    |     贪心    |
 | 76   | 62. 不同路径    | [python](62.%20不同路径/Solution.py)、[java](62.%20不同路径/Solution.java)| Medium    |     贪心    |
+| 77   | 343. 整数拆分    | [python](343.%20整数拆分/Solution.py)、[java](343.%20整数拆分/Solution.java)| Medium    |     贪心    |
+
+
